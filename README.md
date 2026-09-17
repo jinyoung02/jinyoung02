@@ -13,8 +13,8 @@
 
 #### 🔗 Experience
 
-- **LIKELION** | 14th Backend Team Organizer
-- **LIKELION** | 13th Member
+- **LIKELION** | 14th Backend Team Organizer | 2026.03 - Present
+- **LIKELION** | 13th Member | 2025.03 - 2025.12
 - **Kangnam University** | Software Engineering Major, Data Science Minor | 2022.03 - Present
 
 <br>
